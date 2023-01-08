@@ -1,0 +1,9 @@
+Index: Makaronni.py
+===================================================================
+diff --git a/Makaronni.py b/Makaronni.py
+deleted file mode 100644
+--- a/Makaronni.py	(revision a651b8974173fff5f116a86ad6e19d53b58a8d25)
++++ /dev/null	(revision a651b8974173fff5f116a86ad6e19d53b58a8d25)
+@@ -1,1 +0,0 @@
+-print('press f11qqe1')
+\ No newline at end of file
